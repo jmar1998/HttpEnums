@@ -1,0 +1,13 @@
+{
+    "name": "jmar1998/http-enums",
+    "description": "List of status code, on the PHP 8 Enum feature way",
+    "authors": [
+        {
+            "name": "Jose Aires",
+            "email": "joseaires1998@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8.1"
+    }
+}
