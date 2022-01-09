@@ -1,6 +1,7 @@
 {
     "name": "jmar1998/http-enums",
     "description": "List of status code, on the PHP 8 Enum feature way",
+    "minimum-stability" : "stable",
     "authors": [
         {
             "name": "Jose Aires",
