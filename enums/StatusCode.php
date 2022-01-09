@@ -4,7 +4,7 @@ enum StatusCode : int {
     case CONTINUE = 100;
     case SWITCHING_PROTOCOL = 101;
     case PROCESSING = 102;
-    case EARLY_HINTS = 102;
+    case EARLY_HINTS = 103;
     case SUCCESS = 200;
     case CREATED = 201;
     case ACCEPTED = 202;
