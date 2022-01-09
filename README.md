@@ -1,2 +1,2 @@
 # HttpEnums
-List of status code, on the Enum feature way 
+List of status code, on the PHP 8 Enum feature way 
