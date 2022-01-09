@@ -1,7 +1,8 @@
 {
     "name": "jmar1998/http-enums",
-    "description": "List of status code, on the PHP 8 Enum feature way",
+    "description": "List of http useful enums on the PHP 8 Enum feature way",
     "version" : "0.0.1",
+    "license" : "MIT",
     "minimum-stability" : "stable",
     "autoload": {
         "psr-4": {
